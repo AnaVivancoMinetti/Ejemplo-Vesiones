@@ -10,5 +10,7 @@ package ejemplo.vesiones.entidades;
  * @author User
  */
 public class Cliente {
+        
+       
     
 }
